@@ -1,0 +1,108 @@
+<class> object a 
+{
+   attribute int valoare.
+   attribute string nume = "RRadu".
+   attribute bool flag.
+   attribute int valoare.
+   attribute char c = 'c'.
+   attribute array arr1 = [].
+   attribute array arr2 = [12, "cuvant", iden].
+}
+
+<function> char functie1 ( int argument1, char arg2)
+{
+
+   function_member int caca.
+   function_member caca = 50.
+   function_member int maca = 10.
+   function_member int valoare.
+   function_member string nume = "RRadu".
+   function_member bool flag.
+   function_member char c = 'c'.
+   function_member array arr1 = [].
+   function_member array arr2 = [12, "cuvant", iden].
+   <function_call> Eval (function_member int caca = 9. - function_member int maca = 18. )
+    
+}
+ 
+
+<function> string functie2( string argument1, int n)
+{
+   
+   <function_call> Eval (6 - 10 * 5 / 5 ) 
+   <function_call> olar (char v, int tema, <function_call> functie1 ( int argument1, char arg2))
+   function_member int aca = 0.
+   function_member int valoare.
+   function_member string nume = "RRadu".
+   function_member bool flag.
+   function_member char c = 'c'.
+   function_member string nume = "RRadu".
+   function_member array arr1 = [].
+   function_member array arr2 = [12, "cuvant", iden].
+
+}
+
+<function> int functie (int a, string dar)
+{
+   
+   function_member string ob1.
+   function_member string c = "ob1%nume".
+   <function_call> functie2 ( char ob1 , <function_call> functie1 ( 5, int ob1 ) )
+
+}
+<function> int Eval (6 - 10 * 50 / 5 ) 
+
+<function> int functie2 (int a)
+{
+}
+
+<function> int functie2 (int a)
+{
+}
+
+<function> int functie4 (int a)
+{
+   function_member int k.
+   function_member int k.
+   function_member int a = 5.
+   function_member abc = 6.
+   function_member b = 12 + a.
+  
+   function_member string nume = "RRadu".
+
+    if ( a < 5 || true )
+    {
+
+      function_member int a.
+      function_member int b.
+    
+      function_member int abc.
+
+      function_member string str1 = "cuvant1".
+      function_member string str2 = "cuvant2".
+      function_member string str3.
+      function_member str3 = str1 concat str2.
+
+      function_member abc = 123.
+
+      function_member int i.
+
+      function_member int Inaintedefor.
+
+        if ( false && abc == 3 )
+        {
+            for ( function_member i = 2. i <= 10 . function_member i = i + 1. )
+            {
+              
+               function_member a = a * 2.
+           }
+       }
+       else
+        {
+            while( a >= 2 )
+            {
+               function_member a = a + 1.
+            }
+       }
+  }
+}
