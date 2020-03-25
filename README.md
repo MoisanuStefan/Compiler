@@ -1,2 +1,2 @@
 # LFACCompiler
-Lex and Yacc interpretor of language with syntax error detection and variable table 
+Minimal Compiler which does the syntactic analysis of an original programming language and prints out several arithmetic operations results by semantic analysis. 
