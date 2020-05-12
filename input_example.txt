@@ -12,16 +12,16 @@
 <function> char functie1 ( int argument1, char arg2)
 {
 
-   function_member int caca.
-   function_member caca = 50.
-   function_member int maca = 10.
+   function_member int item.
+   function_member item = 50.
+   function_member int item2 = 10.
    function_member int valoare.
    function_member string nume = "RRadu".
    function_member bool flag.
    function_member char c = 'c'.
    function_member array arr1 = [].
    function_member array arr2 = [12, "cuvant", iden].
-   <function_call> Eval (function_member int caca = 9. - function_member int maca = 18. )
+   <function_call> Eval (function_member int caca = 9. - function_member int item2 = 18. )
     
 }
  
